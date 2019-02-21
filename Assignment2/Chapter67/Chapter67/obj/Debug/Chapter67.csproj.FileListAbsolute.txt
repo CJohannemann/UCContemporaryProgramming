@@ -1,0 +1,9 @@
+C:\UCProgrammingC#\Chapter67\Chapter67\bin\Debug\Chapter67.exe.config
+C:\UCProgrammingC#\Chapter67\Chapter67\bin\Debug\Chapter67.exe
+C:\UCProgrammingC#\Chapter67\Chapter67\bin\Debug\Chapter67.pdb
+C:\UCProgrammingC#\Chapter67\Chapter67\obj\Debug\Chapter67.csprojResolveAssemblyReference.cache
+C:\UCProgrammingC#\Chapter67\Chapter67\obj\Debug\Chapter67.Form1.resources
+C:\UCProgrammingC#\Chapter67\Chapter67\obj\Debug\Chapter67.Properties.Resources.resources
+C:\UCProgrammingC#\Chapter67\Chapter67\obj\Debug\Chapter67.csproj.GenerateResource.Cache
+C:\UCProgrammingC#\Chapter67\Chapter67\obj\Debug\Chapter67.exe
+C:\UCProgrammingC#\Chapter67\Chapter67\obj\Debug\Chapter67.pdb
